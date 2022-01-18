@@ -18,6 +18,7 @@ function handleProductChange(isIncrease) {
 
 
 
+// ####################### Add Items ##################### 
 
 // document.getElementById("case-increase").addEventListener("click", function () {
 //   const caseInput = document.getElementById("case-count");
